@@ -98447,7 +98447,7 @@ j.toString
 l=j*0.05
 o=j*0.01
 o=A.c(i,A.V(A.a([new A.bo(B.cE,A.y(A.a([A.i("DATE",i,i,i,i,$.aKB().aa(),i,i,i),A.o(i,2,i),A.i("27th April, 2022",i,i,i,i,$.qj().aa(),i,i,i)],m),B.m,B.j,B.h),i),new A.cv(i),new A.bo(B.cE,A.y(A.a([A.i("AMOUNT",i,i,i,i,$.aKB().aa(),i,i,i),A.o(i,2,i),A.i("\u20b9 650",i,i,i,i,$.qj().aa(),i,i,i)],m),B.m,B.j,B.h),i)],m),B.k,B.j,B.h),B.c,i,i,new A.O(i,i,i,i,i,new A.eW(B.R,B.b5,B.aG,p,i,i),B.p),i,j*0.1,i,new A.j(l,o,l,o),i,i,1/0)
-l=A.V(A.a([A.a6(A.c(i,A.bZ($.o8(),10,i),B.c,i,i,i,i,i,i,i,i,i,i),1)],m),B.k,B.j,B.h)
+l=A.V(A.a([A.a6(A.c(i,A.bZ($.o8(),5,i),B.c,i,i,i,i,i,i,i,i,i,i),1)],m),B.k,B.j,B.h)
 j=A.o(i,20,i)
 r=b.l(r).f
 k=A.c(i,A.y(A.a([o,l,j,A.bH(A.y(A.a([A.c(i,A.dg("assets/images/successfullTick.png",i,i,i),B.c,i,i,i,i,r.a.b*0.25,i,i,i,i,i),A.o(i,25,i),A.i("Expense Created",i,i,i,i,$.aYW().aa(),i,i,i),A.o(i,5,i),A.V(A.a([A.i("Attached File: ",i,i,i,i,$.iF().aa(),i,i,i),A.i(" Bill.pdf",i,i,i,i,$.iF().aa(),i,i,i)],m),B.k,B.P,B.h)],m),B.k,B.j,B.h),i,i)],m),B.m,B.j,B.h),B.c,i,i,new A.O(i,i,i,i,i,new A.eW(B.R,B.b5,B.aG,k,i,i),B.p),i,i,i,i,i,i,i)
@@ -98490,7 +98490,7 @@ j.toString
 l=j*0.05
 o=j*0.01
 o=A.c(i,A.V(A.a([new A.bo(B.cE,A.y(A.a([A.i("DATE",i,i,i,i,$.AX().aa(),i,i,i),A.o(i,2,i),A.i("27th April, 2022",i,i,i,i,$.qj().aa(),i,i,i)],m),B.m,B.j,B.h),i),new A.cv(i),new A.bo(B.cE,A.y(A.a([A.i("AMOUNT",i,i,i,i,$.AX().aa(),i,i,i),A.o(i,2,i),A.i("\u20b9 650",i,i,i,i,$.qj().aa(),i,i,i)],m),B.m,B.j,B.h),i)],m),B.k,B.j,B.h),B.c,i,i,new A.O(i,i,i,i,i,new A.eW(B.R,B.b5,B.aG,p,i,i),B.p),i,j*0.1,i,new A.j(l,o,l,o),i,i,1/0)
-l=A.V(A.a([A.a6(A.c(i,A.bZ($.o8(),10,i),B.c,i,i,i,i,i,i,i,i,i,i),1)],m),B.k,B.j,B.h)
+l=A.V(A.a([A.a6(A.c(i,A.bZ($.o8(),5,i),B.c,i,i,i,i,i,i,i,i,i,i),1)],m),B.k,B.j,B.h)
 j=A.o(i,20,i)
 r=b.l(r).f
 k=A.c(i,A.y(A.a([o,l,j,A.bH(A.y(A.a([A.c(i,A.dg("assets/images/successfullTick.png",i,i,i),B.c,i,i,i,i,r.a.b*0.25,i,i,i,i,i),A.o(i,25,i),A.i("Inventory Created",i,i,i,i,$.AV().aa(),i,i,i)],m),B.k,B.j,B.h),i,i)],m),B.m,B.j,B.h),B.c,i,i,new A.O(i,i,i,i,i,new A.eW(B.R,B.b5,B.aG,k,i,i),B.p),i,i,i,i,i,i,i)
@@ -98718,7 +98718,7 @@ j.toString
 l=j*0.05
 o=j*0.01
 o=A.c(i,A.V(A.a([new A.bo(B.cE,A.y(A.a([A.i("DATE",i,i,i,i,$.AX().aa(),i,i,i),A.o(i,2,i),A.i("27th April, 2022",i,i,i,i,$.qj().aa(),i,i,i)],m),B.m,B.j,B.h),i),new A.cv(i),new A.bo(B.cE,A.y(A.a([A.i("Quantity",i,i,i,i,$.AX().aa(),i,i,i),A.o(i,2,i),A.i("4",i,i,i,i,$.qj().aa(),i,i,i)],m),B.m,B.j,B.h),i)],m),B.k,B.j,B.h),B.c,i,i,new A.O(i,i,i,i,i,new A.eW(B.R,B.b5,B.aG,p,i,i),B.p),i,j*0.1,i,new A.j(l,o,l,o),i,i,1/0)
-l=A.V(A.a([A.a6(A.c(i,A.bZ($.o8(),10,i),B.c,i,i,i,i,i,i,i,i,i,i),1)],m),B.k,B.j,B.h)
+l=A.V(A.a([A.a6(A.c(i,A.bZ($.o8(),5,i),B.c,i,i,i,i,i,i,i,i,i,i),1)],m),B.k,B.j,B.h)
 j=A.o(i,20,i)
 r=b.l(r).f
 k=A.c(i,A.y(A.a([o,l,j,A.bH(A.y(A.a([A.c(i,A.dg("assets/images/successfullTick.png",i,i,i),B.c,i,i,i,i,r.a.b*0.25,i,i,i,i,i),A.o(i,25,i),A.i("Inventory Updated",i,i,i,i,$.AV().aa(),i,i,i)],m),B.k,B.j,B.h),i,i)],m),B.m,B.j,B.h),B.c,i,i,new A.O(i,i,i,i,i,new A.eW(B.R,B.b5,B.aG,k,i,i),B.p),i,i,i,i,i,i,i)
