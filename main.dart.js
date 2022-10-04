@@ -106832,7 +106832,8 @@ k=A.m(c,c,l*0.05)
 if(d.a.c){q=A.V(a0.k(q).f.a.a*0.3)
 j=$.ah
 j.toString
-i=A.d(c,A.bd(B.ur,c,30),B.c,c,c,new A.X(B.lm,c,c,c,c,c,B.ag),c,j*0.09,c,new A.n(5,5,5,5),c,c,c)
+i=j*0.06
+i=A.d(c,A.bd(B.ur,c,25),B.c,c,c,new A.X(B.lm,c,c,c,c,c,B.ag),c,i,c,new A.n(5,5,5,5),c,c,i)
 h=A.m(c,c,j*0.013)
 g=A.V(12)
 f=t.p
