@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "0290909e1ff1da04b0f0e224e62498b5",
+  "assets/AssetManifest.json": "d90c9ed5cb4331a7e480d21025ced0cc",
 "assets/assets/fonts/Inter-Bold.ttf": "2a14de21f3809a78ea601cef2b2fb61a",
 "assets/assets/fonts/Inter-Light.ttf": "bd68bbe6f33671b4e0aff5e4e44511d2",
 "assets/assets/fonts/Inter-Medium.ttf": "e5f18cb987385760e628a9671f975412",
@@ -84,6 +84,7 @@ const RESOURCES = {
 "assets/assets/images/newEventsIcon.svg": "0cfd5195fb1164e43ff038afe637a167",
 "assets/assets/images/newRefundsIcon.svg": "6d967f2b195f64333c0bdf041dcc7ca9",
 "assets/assets/images/newSubscriptionIcon.svg": "b25915a42a2e43b45908057d714a2f4b",
+"assets/assets/images/noScreenFoundImage.png": "307dc098d1fef5e664bfaf813779bcda",
 "assets/assets/images/notificationIcon.svg": "e918465201615514e197b5887b96581c",
 "assets/assets/images/outflow-icon.png": "92403b42acb3819f49ff7febb6583358",
 "assets/assets/images/outlookIcon.svg": "4e959bf7079416257f75e7d9f40577e6",
@@ -134,9 +135,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "d708199cfbb21aafe88760614e35f414",
-"/": "d708199cfbb21aafe88760614e35f414",
-"main.dart.js": "78699b36c8463121df5f51711d823b8a",
+"index.html": "59a28275bf6d8da8cc5d6292e76e668c",
+"/": "59a28275bf6d8da8cc5d6292e76e668c",
+"main.dart.js": "9e606d732bb4ea13b76d52c148384760",
 "manifest.json": "8ef95d3397c7b63d7565e6eeac2754b4",
 "version.json": "e11da3a6143bf654a25e156a65061054"
 };
