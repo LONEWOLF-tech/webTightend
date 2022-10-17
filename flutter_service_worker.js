@@ -21,7 +21,7 @@ const RESOURCES = {
 "assets/assets/images/3.png": "4a11808fe47656e59d29988eddfc7dd7",
 "assets/assets/images/4.png": "3b20036fddc8c16e4eb8b9f5fde8e250",
 "assets/assets/images/addNewRequest-icon.png": "4d3afde7f645cfda4b5c2f6134fdf699",
-"assets/assets/images/appStrings.dart": "23f51917c9a5a580ecd423f3d41666a6",
+"assets/assets/images/appStrings.dart": "fd09cbe5e48109eec55d1e797dfa1845",
 "assets/assets/images/arrowForward-img.png": "8469156c83e3e5a2e196be9d672d9c8c",
 "assets/assets/images/arrow_forward-icon.svg": "0ec55f1fec7e19e2b0d138f97546ee67",
 "assets/assets/images/backIcon.svg": "1f428723bcf3edae025321fb02dc34af",
@@ -157,9 +157,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "db984211793f1cf1d28f1f31ebe63f1a",
-"/": "db984211793f1cf1d28f1f31ebe63f1a",
-"main.dart.js": "81f7f46d1deff0bbcefcda30ddb9c35c",
+"index.html": "c36f61739a314a9f436699939d72fe13",
+"/": "c36f61739a314a9f436699939d72fe13",
+"main.dart.js": "2af9ea05849ad3601d10be6bd41ffc03",
 "manifest.json": "8ef95d3397c7b63d7565e6eeac2754b4",
 "version.json": "e11da3a6143bf654a25e156a65061054"
 };
