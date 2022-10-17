@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "238b98755487608c3cbd8a5508ac74f1",
+  "assets/AssetManifest.json": "f75d2b2f193aa72fa81805d4a299d396",
 "assets/assets/fonts/Inter-Bold.ttf": "2a14de21f3809a78ea601cef2b2fb61a",
 "assets/assets/fonts/Inter-Light.ttf": "bd68bbe6f33671b4e0aff5e4e44511d2",
 "assets/assets/fonts/Inter-Medium.ttf": "e5f18cb987385760e628a9671f975412",
@@ -47,6 +47,7 @@ const RESOURCES = {
 "assets/assets/images/eventsIcon.svg": "3246f6188060d0cbbbf1c19d71de747f",
 "assets/assets/images/expenses-icon.png": "3e3ac27583aa3cc91319e5bb6795c1fb",
 "assets/assets/images/filter-icon.svg": "b0d0bb74e9a7b854b83b9ade610705fa",
+"assets/assets/images/flutter.png": "d744440971931f937269e060e720f5a7",
 "assets/assets/images/FoIcon.png": "16e087240298815c69b1d2b7a5704ee8",
 "assets/assets/images/footballCricket.svg": "2dc2c0779d5bd6c5004087fcd47d6dd8",
 "assets/assets/images/footballs-icon.svg": "c72da942d466aa8fadfc8cf70351eb0a",
@@ -121,7 +122,7 @@ const RESOURCES = {
 "assets/assets/images/secondaryNotification.svg": "66f1fe79502ce7bae8c6e0f213d118e8",
 "assets/assets/images/settingIcon.svg": "fb033f48dc2f5f30262f1a6ac046352b",
 "assets/assets/images/shuttleCock-icon.svg": "563c505cc897f22512327ec5291f3c42",
-"assets/assets/images/skatingTrack.svg": "ad86ce9f99ad279f355ff358eea6da99",
+"assets/assets/images/skatingTrack.svg": "04a4689b049c66847a03b79604cc3fe9",
 "assets/assets/images/skyBlueCard.svg": "995851c9f9b45ef9c694d0cce358a279",
 "assets/assets/images/skyBlueCourtOverlayCard.svg": "9c4b1b28d833608eb99717dc5e596b32",
 "assets/assets/images/subscriptionIcon.png": "0d6fd881133a1ecac387ed26651e8370",
@@ -156,9 +157,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "7e179bce6b9e6bcc1377cc28a79241cb",
-"/": "7e179bce6b9e6bcc1377cc28a79241cb",
-"main.dart.js": "0004294db0344e450cbf483cfec26f56",
+"index.html": "db984211793f1cf1d28f1f31ebe63f1a",
+"/": "db984211793f1cf1d28f1f31ebe63f1a",
+"main.dart.js": "81f7f46d1deff0bbcefcda30ddb9c35c",
 "manifest.json": "8ef95d3397c7b63d7565e6eeac2754b4",
 "version.json": "e11da3a6143bf654a25e156a65061054"
 };
